@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0:25565",
+  "bungees": [
+    "play.cubecraft.net:25565",
+    "0.0.0.0:2556"
+  ],
+  "balanceType": "roundrobin"
+}

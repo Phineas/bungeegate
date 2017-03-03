@@ -1,0 +1,25 @@
+{
+  "name": "bungeegate",
+  "version": "0.0.2",
+  "description": "BungeeGate Runtime -> Load Balance BungeeCord Traffic",
+  "main": "src/gate.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phineas/bungeegate.git"
+  },
+  "keywords": [
+    "node",
+    "bungeecord",
+    "bungee",
+    "load-balancer"
+  ],
+  "author": "phineas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phineas/bungeegate/issues"
+  },
+  "homepage": "https://github.com/Phineas/bungeegate#readme"
+}
